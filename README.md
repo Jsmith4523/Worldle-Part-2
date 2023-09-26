@@ -1,5 +1,7 @@
 # Project 2 - *Wordle Part 2*
 
+# Video Walkthrough
+<img src='https://github.com/Jsmith4523/Worldle-Part-2/blob/main/WordleSmall2.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 Submitted by: **Jaylen Smith**
 
 **Wordle Part 2** is an app that extends the Wordle Lab 1 Application from CodePath. Where in the second part of this application, our goal was to incorporate other key features and elements for the application. In the version, a user can now select the number of rows and/or guesses they would like with their game, change the theme of the game to either 'Standard', 'Countries', or 'Animals'. This version also include the "Alien Wordle" feature. Where everytime a user gueses a word incorrectly within a row, a new word is generated; which increases the difficulty of the game. 
